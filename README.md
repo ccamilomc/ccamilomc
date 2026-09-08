@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ccamilomc/ccamilomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Cristian Camilo 👋
+### Estudiante de Ingeniería de Software y Ciberseguridad
 
-Here are some ideas to get you started:
+Apasionado por la tecnología, el desarrollo de software y la seguridad informática. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas y Tecnologías
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 📈 Mis Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccamilomc&theme=dark&hide_border=true&include_all_commits=true&count_private=true)

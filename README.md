@@ -17,15 +17,10 @@ Construyo aplicaciones web y de escritorio para negocios reales: ventas e invent
 
 ## Proyectos
 
-La mayor parte de mi trabajo es para clientes y está en repositorios privados. Estos son los tipos de sistema que he construido:
+- **[Nexus](https://github.com/ccamilomc/nexus)**: sistema operativo personal adaptativo (PWA) para entrenamiento, nutrición, hábitos, estudio y sueño. React, TypeScript y Supabase, con CI de typecheck, lint, formato y pruebas.
+- **[Licorera POS Demo](https://github.com/ccamilomc/licorera-pos-demo)**: punto de venta, inventario y caja para tiendas de barrio, que funciona sin conexión. Tauri, React, Rust y SQLite.
 
-- **Plataforma de hábitos, nutrición y entrenamiento** (React, TypeScript, Supabase): CI con typecheck, lint y pruebas, y base de alimentos colombianos.
-- **Punto de venta e inventario para tiendas de barrio** (Tauri, React, Rust): funciona sin conexión, con caja, fiados y copias de seguridad.
-- **Sistema de ventas, cartera y caja** (Django, PostgreSQL).
-- **Centro de control de TI** (Django, HTMX, agente en PowerShell): activos, accesos, mantenimientos y backups en red local.
-- **Sitio corporativo con panel de administración** (Laravel, Filament, Tailwind).
-- **Visor de puestos de votación** (JavaScript, PWA sin conexión): mapa, tablero y rutas.
-
+Además he construido, en repositorios privados para clientes, un sistema de ventas y cartera (Django, PostgreSQL), un centro de control de TI (Django, HTMX, agente en PowerShell), un sitio corporativo con panel de administración (Laravel, Filament) y un visor de puestos de votación (PWA sin conexión).
 
 ## Qué estoy aprendiendo
 
